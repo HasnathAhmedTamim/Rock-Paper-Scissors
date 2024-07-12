@@ -20,7 +20,7 @@ Upon running the game with moves "Rock Paper Scissors Lizard Spock", the user is
 
 ### Video Demonstration and Repository
 
-For a visual demonstration of the game's functionality, please refer to the [video demonstration](#link-to-video). The complete source code for this project can be found on [GitHub](#link-to-repository).
+For a visual demonstration of the game's functionality, please refer to the [video demonstration](https://drive.google.com/file/d/1TJQ4AFv5AhvVqviU2-J7LbF5OkajESD0/view?usp=sharing). The complete source code for this project can be found on [GitHub](https://github.com/HasnathAhmedTamim/Rock-Paper-Scissorsy).
 
 ### Author
 
