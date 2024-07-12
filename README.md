@@ -4,7 +4,7 @@ This project implements a versatile Rock-Paper-Scissors game capable of handling
 
 ### Usage
 
-To play the game, Node.js must be installed on your system. Launch the game by executing `node game.js` followed by an odd number of non-repeating moves. For example, running `node game.js Rock Paper Scissors Lizard Spock` initializes a game with five distinct moves. Upon launch, the game displays an HMAC key for verification, prompts the user to select a move from a menu, and provides options to view a help table or exit.
+To play the game, Node.js must be installed on your system. Launch the game by executing `node game.js` followed by an odd number of non-repeating moves. For example, running `node game.js Rock Paper Scissors Lizard Spock` initializes a game with five distinct moves. Upon launch, the game displays an HMAC key for verification, prompts the user to select a move from a menu, and provides options to view a help table or exit..
 
 ### Files
 
